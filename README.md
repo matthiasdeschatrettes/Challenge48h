@@ -4,11 +4,17 @@
 
 #######################################
 
+
+
+
 ###########################################################
 
 Challenge 48h ### Groupe Pomona ### Entreprise PassionFroid
 
 ###########################################################
+
+
+
 
 ############
 
@@ -18,15 +24,21 @@ Challenge informatique scolaire visant à répondre aux besoins d'un client; ici
 
 
 
+
+
 ##############################
 
 ############ TEST ############
 
 ##############################
 
+
+
 Pour tester notre code vous n'avez qu'à télécharger le dossier, l'ouvrir avec un éditeur de code et lancer Accueil.html
 
 ############
+
+
 
 
 
