@@ -1,0 +1,23 @@
+.selecteur{ /*Styles applied in the text input*/
+    width: 550px;
+    height:auto;
+    color:rgb(0, 0, 0);
+    border-color:rgb(0, 0, 255);
+    border-radius: 10px;
+    background-color: aliceblue;
+    border-style: solid;
+    position: absolute;
+    top: 300px;
+    
+}
+
+.button1{ /*Style of button 1 (entrÃ©e)*/
+    font-size:20px;
+    border-radius:8px;
+    border-color:white;
+    background-color:#1a2336;
+    color:white;
+    transition-duration: 0.4s;
+    position: absolute;
+    top:800px;
+}
